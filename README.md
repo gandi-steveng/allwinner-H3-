@@ -1,1 +1,1 @@
-# allwinner-H3-
+全志H3资料
